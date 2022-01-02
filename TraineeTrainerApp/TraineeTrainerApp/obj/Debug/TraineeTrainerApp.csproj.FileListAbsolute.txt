@@ -1,0 +1,7 @@
+C:\Users\nikit\OneDrive\Desktop\TraineeTrainerApp\TraineeTrainerApp\bin\Debug\TraineeTrainerApp.exe.config
+C:\Users\nikit\OneDrive\Desktop\TraineeTrainerApp\TraineeTrainerApp\bin\Debug\TraineeTrainerApp.exe
+C:\Users\nikit\OneDrive\Desktop\TraineeTrainerApp\TraineeTrainerApp\bin\Debug\TraineeTrainerApp.pdb
+C:\Users\nikit\OneDrive\Desktop\TraineeTrainerApp\TraineeTrainerApp\obj\Debug\TraineeTrainerApp.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Desktop\TraineeTrainerApp\TraineeTrainerApp\obj\Debug\TraineeTrainerApp.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Desktop\TraineeTrainerApp\TraineeTrainerApp\obj\Debug\TraineeTrainerApp.exe
+C:\Users\nikit\OneDrive\Desktop\TraineeTrainerApp\TraineeTrainerApp\obj\Debug\TraineeTrainerApp.pdb
